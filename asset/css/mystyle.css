@@ -1,0 +1,25 @@
+.header-logo {
+    width: 50px;
+}
+
+.my-nav-bg {
+    background-color: rgb(21, 64, 120);
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.section-img {
+    width: 200px;
+    border-radius: 100%;
+    background-color: antiquewhite;
+}
+
+#service {
+    background-image: url("../img/bg-1.png");
+    background-size: cover;
+    background-attachment: fixed;
+    color: aliceblue;
+}
